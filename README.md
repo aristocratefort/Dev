@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# Dev
-=======
-ex
->>>>>>> master
+Code developpement web
