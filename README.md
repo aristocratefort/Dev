@@ -3,14 +3,14 @@
 ## HMLT
 Il permet de definir la structure de la page
     + Historique
-    + Définition des attributs ( <br>, <hr>,<a>, <p>)
+    + Définition des attributs <!--( <br>, <hr>,<a>, <p>)-->
     + html document structure
     + html content models
     + Block level elements & inline elements
     + le web sémantique 
     + list en html 
-    + création des liens ( <a>)
-    + Display image (<img>)
+    + création des liens <!--( <a>)-->
+    + Display image <!--('(<img>)'-->
 ## CSS
 il permet de definir le style de la page
 ## JS
