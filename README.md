@@ -14,10 +14,11 @@ Il permet de definir la structure de la page
 ## CSS
 il permet de definir le style de la page
     <style>
-        li{
+        ul{
             color:red;
         }
     </style>
+    <ul>
     <li> Def CSS:feuilles de style en cascade</li>
     <li> Anatomy of CSS rule</li>
     <li> 
@@ -27,8 +28,7 @@ il permet de definir le style de la page
         <li>ID selector (put sharp before the name. Exple: &#9839;names)</li>
         </ul>
     </li>
-    <li> </li>
-    <li> </li>
+    </ul>
 
 ## JS
 il permet de definir le comportement c'est a dire ce qui se passe lorque le html finit de se charger dans le navigateur
