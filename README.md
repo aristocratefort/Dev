@@ -13,15 +13,9 @@ Il permet de definir la structure de la page
     <li> Display image (&lt;img&gt;) </li> 
 ## CSS
 il permet de definir le style de la page
-    <style>
-        ul{
-            color:red;
-        }
-    </style>
     <ul>
     <li> Def CSS:feuilles de style en cascade</li>
-    <li> Anatomy of CSS rule</li>
-    <li> 
+    <li> Anatomy of CSS rule:
         <ul>
         <li>Element selector (put the name of the selector. Exple: &lt;p&gt;, &lt;div&gt; )</li>
         <li>class selector (put dot before the name. Exple: .blue)</li>
