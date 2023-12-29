@@ -17,7 +17,7 @@ il permet de definir le style de la page
     <li> Def CSS:feuilles de style en cascade</li>
     <li> Anatomy of CSS rule:
         <ul>
-        <li>Element selector (put the name of the selector. Exple: &lt;p&gt;, &lt;div&gt; )</li>
+        <li> <scan color: blue> Element selector (put the name of the selector. </scan> Exple: &lt;p&gt;, &lt;div&gt; )</li>
         <li>class selector (put dot before the name. Exple: .blue)</li>
         <li>ID selector (put sharp before the name. Exple: &#9839;names)</li>
         </ul>
