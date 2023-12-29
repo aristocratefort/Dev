@@ -1,0 +1,27 @@
+h2{
+    text-align: center;
+    color: #004080;
+    font-size: 30px;
+    border-top: 1px solid #004080;
+    border-bottom: 1px solid #004080;
+    padding: 10px 0;
+}
+p{
+    text-align: justify;
+}
+h3{
+    text-align: center;
+    color: #004080;
+    font-size: 20px;
+    border-top: 1px solid #004080;
+    border-bottom: 1px solid #004080;
+    padding: 10px 0;
+    margin: 15px;
+}
+#imagedavid {
+    width: 230px;
+    margin: 0 auto; 
+    border-radius: 120px;
+    background-color: #004080;
+    border: 10px solid #004080;
+}
