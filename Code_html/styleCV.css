@@ -31,12 +31,15 @@ h3{
     margin: 15px;
 }
 #imagedavid {
-    width: 230px;
+    width: 250px;
     margin: 0 auto; 
-    border-radius: 120px;
+    border-radius: 130px;
     background-color: #004080;
     border: 10px solid #004080;
     margin-left: 25px;
+    position: relative;
+    top: 10px;
+    left: 10px;
 }
 #CERTIFICATIONS a:link ,
 #CERTIFICATIONS a:visited {

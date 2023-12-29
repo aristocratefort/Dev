@@ -1,6 +1,10 @@
 
         p{ 
             color: black;
+            text-align: justify;
+        }
+        h1.title{
+            background-image: url(https://conseilnc.ordre.medecin.fr/sites/default/files/domain-418/images/crop/OPT-code-sante-publique-600x314.jpg);
         }
 
         .blueviolet{
