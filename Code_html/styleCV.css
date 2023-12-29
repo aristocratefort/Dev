@@ -1,3 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+*{
+    box-sizing: border-box;
+}
+h1{
+    color: #004080;
+    font-style: bold;
+    text-align: center;
+    font-size: 300%;
+}
 h2{
     text-align: center;
     color: #004080;
@@ -24,4 +36,20 @@ h3{
     border-radius: 120px;
     background-color: #004080;
     border: 10px solid #004080;
+    margin-left: 25px;
+}
+#CERTIFICATIONS a:link ,
+#CERTIFICATIONS a:visited {
+    text-decoration: none;
+    background-color: #ffffff;
+    color: black;
+    display: block;
+    margin-bottom: 1px;
+}
+
+#CERTIFICATIONS a:hover, 
+#CERTIFICATIONS a:active{
+    background-color: brown;
+    color: white;
+    width: 600px;
 }
