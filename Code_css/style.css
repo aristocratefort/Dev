@@ -1,0 +1,43 @@
+
+        p{ 
+            color: black;
+        }
+
+        .blueviolet{
+            color: blueviolet;
+        }
+
+        ul{
+            color: brown;
+        }
+        li > ul{
+            color: black;
+        }
+        h2.da{
+            color: black;
+            font-size: 20px;
+            text-align: center;
+        }
+        header li{
+            list-style: none;
+        }
+        a:link ,a:visited {
+            text-decoration: none;
+            background-color: rgb(90, 87, 87);
+            border: 1px solid blue;
+            color: black;
+            display: block;
+            text-align: center;
+            margin-bottom: 1px;
+            width: 300px;
+            border-radius: 23px;
+        }
+
+        a:hover, a:active{
+            background-color: brown;
+            color: white;
+        }
+
+        header li:nth-child(3){
+            font-size: 21px;
+        }
