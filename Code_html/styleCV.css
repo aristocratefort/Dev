@@ -1,5 +1,7 @@
-@media screen {
-    
+@media (max-width: 100px) {
+    #imagedavid {
+        width: 80%;
+    }
 }
 
 body{
@@ -64,7 +66,8 @@ h3{
 .logo_entreprise{
     width: 100px;
     position: relative;
-    right: 0%;
+    right: -80%;
+    margin-top: 10px;
 }
 .titre_poste{
     text-decoration: underline;
